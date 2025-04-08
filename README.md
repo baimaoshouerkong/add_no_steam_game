@@ -17,5 +17,5 @@ this is no_steam_game saved  data struct. Please refer to for details to https:/
 |---ReadShortcut
 
 ```
-
+[中文文档](https://github.com/baimaoshouerkong/add_no_steam_game/edit/main/README_zh.md)
 
